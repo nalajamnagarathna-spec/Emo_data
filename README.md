@@ -85,3 +85,4 @@ This project demonstrates an end-to-end employee data cleaning and analysis work
 * NumPy
 * Matplotlib
 * Jupyter Notebook
+<img width="419" height="224" alt="image" src="https://github.com/user-attachments/assets/33b8382d-5656-4bdd-ac1d-13d6deb3191a" />
