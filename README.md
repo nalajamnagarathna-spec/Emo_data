@@ -1,4 +1,5 @@
 # Emp_data
+The Employee dataset contains basic information about employees in an organization, including Employee ID, Name, Gender, Department, Salary, Joining Date, and Email. It is used to practice data cleaning, preprocessing, exploratory data analysis (EDA), and data visualization. The dataset helps analyze employee distribution across departments, salary trends, gender diversity, joining patterns, and identify data quality issues such as missing values, invalid entries, and inconsistent records.
 # Employee Data Cleaning & Analysis Using Python (Pandas)
 
 ## Project Description
